@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/admondtamang/proof-of-concept--poc.git
     targetRevision: HEAD
-    path: dev
+    path: main
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
